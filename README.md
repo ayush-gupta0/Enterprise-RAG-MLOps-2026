@@ -1,6 +1,6 @@
 # 🚀 Enterprise RAG Pipeline with MLOps tracking
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_NOTEBOOK_URL)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/drive/1euq_1DpnkfmxirWU6YyJbQoC8U7E7bBe#scrollTo=6HW_cv3ud5A5")
 [![MLflow](https://img.shields.io/badge/MLflow-Tracking-blue)](https://mlflow.org/)
 [![Llama 3.1](https://img.shields.io/badge/Model-Llama_3.1-orange)](https://ai.meta.com/blog/meta-llama-3-1/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
